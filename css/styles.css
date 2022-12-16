@@ -89,6 +89,7 @@ hr{
     border-style: dotted none none;
     border-width: 5px;
     width: 5%;
+    align: center;
 }
 .contact-message{
     width: 40%;
